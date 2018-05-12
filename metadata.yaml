@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41694'
     url: http://www.gutenberg.org/2009/agents/41694
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42450#Housekeeping-in-Old-Virginia
 gutenberg_issued: '2013-03-31'
 gutenberg_type: Text
 identifiers:
